@@ -1,0 +1,25 @@
+.containersss
+{
+width:100%px;
+overflow:hidden;
+background:white;
+margin:20px auto;
+padding:5px 0px;
+}
+.cotnainersss ul
+{
+padding:0px;
+margin:0px;
+}
+.containersss ul li
+{
+list-style:none;
+float:left;
+width:70%;
+height:90%;
+background:white;
+border:1px solid black; 
+margin:40px 40px 0px 55px;
+
+}
+ 

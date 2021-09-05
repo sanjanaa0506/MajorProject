@@ -1,0 +1,24 @@
+.contain
+{
+width:10%px;
+overflow:hidden;
+background:white;
+margin:20px auto;
+padding:5px 0px;
+}
+.cotnain ul
+{
+padding:0px;
+margin:0px;
+}
+.contain ul li
+{
+list-style:none;
+float:left;
+width:20%;
+height:20%;
+background:white;
+margin:40px 40px 0px 55px;
+
+}
+ 

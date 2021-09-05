@@ -1,0 +1,24 @@
+.containerssss
+{
+width:100%px;
+overflow:hidden;
+background:white;
+margin:20px auto;
+padding:5px 0px;
+}
+.cotnainerssss ul
+{
+padding:0px;
+margin:0px;
+}
+.containerssss ul li
+{
+list-style:none;
+float:left;
+width:160px;
+height:100px;
+background:white;
+margin:40px 40px 0px 55px;
+
+}
+ 
